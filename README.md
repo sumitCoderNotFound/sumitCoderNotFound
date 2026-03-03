@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sumit 👋
 
-<!--
-**sumitCoderNotFound/sumitCoderNotFound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with 4+ years experience building full-stack applications.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend:
+Node.js • Express • REST APIs • GraphQL
+
+Frontend:
+React • TypeScript • Angular • Next.js
+
+Databases:
+MongoDB • PostgreSQL • SQL
+
+Cloud & DevOps:
+AWS • Docker • CI/CD
+
+Languages:
+JavaScript • TypeScript • Java • Python
+
+## Currently
+MSc Advanced Computer Science – Northumbria University
+
+Open to Software Engineer opportunities in the UK.
