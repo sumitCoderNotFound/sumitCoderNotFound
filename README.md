@@ -1,25 +1,61 @@
-# Hi, I'm Sumit 👋
+# Hi, I'm Sumit Malviya 👋
 
-Software Engineer with 4+ years experience building full-stack applications.
+Software Engineer with 4+ years of experience building scalable full-stack applications.
 
-## Tech Stack
+🎓 MSc Advanced Computer Science – Northumbria University  
+📍 Newcastle upon Tyne, UK  
+💼 Open to Software Engineer opportunities in the UK  
 
-Backend:
+---
+
+## 🚀 Tech Stack
+
+### Backend
 Node.js • Express • REST APIs • GraphQL
 
-Frontend:
+### Frontend
 React • TypeScript • Angular • Next.js
 
-Databases:
+### Databases
 MongoDB • PostgreSQL • SQL
 
-Cloud & DevOps:
+### Cloud & DevOps
 AWS • Docker • CI/CD
 
-Languages:
+### Languages
 JavaScript • TypeScript • Java • Python
 
-## Currently
-MSc Advanced Computer Science – Northumbria University
+---
 
-Open to Software Engineer opportunities in the UK.
+## 📂 Featured Projects
+
+### Water Quality Monitoring System
+Microservices architecture built using Spring Boot and MongoDB with a React dashboard.
+
+### AI with React
+AI powered interface built using React and modern APIs.
+
+### Traffic Monitoring System
+Real-time vehicle detection using YOLOv8 and Python.
+
+---
+
+## 📊 GitHub Stats
+
+![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitCoderNotFound&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sumitCoderNotFound&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn  
+https://linkedin.com/in/sumit-malviya
+
+Portfolio  
+https://sumit-malviya-portfolio.vercel.app/
